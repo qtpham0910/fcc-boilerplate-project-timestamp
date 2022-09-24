@@ -4,7 +4,7 @@ This is the boilerplate code for the Timestamp Microservice project. Instruction
 
 
 # To begin
-Terminal
+*Terminal
 
 npm install
 
